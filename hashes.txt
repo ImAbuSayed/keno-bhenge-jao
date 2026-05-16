@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Keno Bhenge Jao
+
+This log tracks the cryptographic history and versioning for the song **Keno Bhenge Jao** (keno-bhenge-jao).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T07:08:29.363053 | `v1` | `44528553db5e301466412417222eb7ee161f4fbba32ba086847369faaef12f89` | `c4494484f63ac0c3c2c21ec3cd08e7ed07855419f6e189b28842ed9da8d4d185` | `2026-05-16_keno-bhenge-jao-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

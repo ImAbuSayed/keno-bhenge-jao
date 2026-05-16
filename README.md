@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/keno-bhenge-jao/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Keno Bhenge Jao](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/keno-bhenge-jao/) |
+| **Get License** | [Commercial Licensing for Keno Bhenge Jao](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/keno-bhenge-jao/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `44528553db5e301466412417222eb7ee161f4fbba32ba086847369faaef12f89` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

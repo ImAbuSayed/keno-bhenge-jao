@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/keno-bhenge-jao/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Keno Bhenge Jao](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/keno-bhenge-jao/) |
+| **Get License** | [Secure Licensing Rights for Keno Bhenge Jao](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/keno-bhenge-jao/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> কেনো ভেঙে যাও মনের সীমানায়.. ভেঙে যাও..
+> অচেনা মেঘের ঐ নীল ছায়ায়
+> হারানো স্মৃতির এই বেদনায়
+> খুঁজে ফিরি তোমায় নিরালায়.. নিরালায়..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
